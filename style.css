@@ -1,0 +1,89 @@
+@import url("https://use.typekit.net/eyf7nap.css");
+body{
+  border: auto;
+}
+main{
+  border: auto;
+}
+ header {
+   font-weight: bolder;
+   background-color: lightyellow;
+   padding: 30px
+ }
+nav {
+  background-color: black;
+  font-weight: light;
+}
+ h1 {
+   text-align: right;
+   color: purple;
+   font-family: brother-1816-printed;
+ }
+
+ h2 {
+   text-align: right;
+   font-weight: lighter;
+   font-size: 16pt;
+   color: orange;
+   font-family: brother-1816-printed;
+ }
+
+ h4 {
+   text-align: right;
+   font-weight: lighter;
+   font-size: 14pt;
+   color: orange;
+   font-family: brother-1816-printed;
+ }
+
+ hr {
+   border-color: black;
+ }
+
+
+
+ main {
+   background-color: black;
+   color: white;
+   padding: 10px;
+ }
+
+ a {
+   color: silver;
+   font-family: brother-1816-printed;
+ }
+
+ img {
+   border: 3px solid orange;
+   width: 200px;
+   border-radius: 600px;
+   margin: 30px
+   float: right;
+ }
+img.folio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+ li {
+   display: inline-block;
+   background-color: purple;
+ }
+
+ footer {
+   color: orange;
+   text-align: center;
+   font-size: 14pt;
+   font-style: italic;
+   font-weight: light;
+   background-color: lightyellow;
+   font-family: brother-1816-printed;
+ }
+ p {
+   background-color: black;
+   color: green;
+   text-align: right;
+   font-family: brother-1816-printed;
+   padding: 30px;
+ }
